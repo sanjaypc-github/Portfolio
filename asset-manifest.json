@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.936f06ab.css",
-    "main.js": "/portfolio/static/js/main.fa59a275.js",
-    "static/media/AK racing 2.png": "/portfolio/static/media/AK racing 2.519f3efbcf9b35220253.png",
-    "static/media/pizza ad -template.png": "/portfolio/static/media/pizza ad -template.bb0d62e966c8fd7b784c.png",
-    "static/media/Benz-mocks.png": "/portfolio/static/media/Benz-mocks.7813aab3ed5a3e618adb.png",
-    "static/media/gpay home 2.png": "/portfolio/static/media/gpay home 2.d803c154af807a5ef65c.png",
-    "static/media/zomato -2.png": "/portfolio/static/media/zomato -2.6c5ab904425b65ff6125.png",
-    "static/media/profile.jpg": "/portfolio/static/media/profile.c471b326f740782dc5c3.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.936f06ab.css.map": "/portfolio/static/css/main.936f06ab.css.map",
-    "main.fa59a275.js.map": "/portfolio/static/js/main.fa59a275.js.map"
+    "main.css": "/Portfolio/static/css/main.936f06ab.css",
+    "main.js": "/Portfolio/static/js/main.c7ddd118.js",
+    "static/media/AK racing 2.png": "/Portfolio/static/media/AK racing 2.519f3efbcf9b35220253.png",
+    "static/media/pizza ad -template.png": "/Portfolio/static/media/pizza ad -template.bb0d62e966c8fd7b784c.png",
+    "static/media/Benz-mocks.png": "/Portfolio/static/media/Benz-mocks.7813aab3ed5a3e618adb.png",
+    "static/media/gpay home 2.png": "/Portfolio/static/media/gpay home 2.d803c154af807a5ef65c.png",
+    "static/media/zomato -2.png": "/Portfolio/static/media/zomato -2.6c5ab904425b65ff6125.png",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.c471b326f740782dc5c3.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.936f06ab.css.map": "/Portfolio/static/css/main.936f06ab.css.map",
+    "main.c7ddd118.js.map": "/Portfolio/static/js/main.c7ddd118.js.map"
   },
   "entrypoints": [
     "static/css/main.936f06ab.css",
-    "static/js/main.fa59a275.js"
+    "static/js/main.c7ddd118.js"
   ]
 }
